@@ -13,3 +13,4 @@
 
 ## Atividade 4:
 ### Matplotlib
+##### O arquivo "dias_e_valores" é um anexo da atividade 4!
